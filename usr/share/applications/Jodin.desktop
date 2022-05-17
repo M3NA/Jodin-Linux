@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Jodin
+Comment=Jodin
+Exec=/usr/bin/Jodin %U
+Icon=Odin-logo
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Android;Application;
+Name[en_US]=Jodin
