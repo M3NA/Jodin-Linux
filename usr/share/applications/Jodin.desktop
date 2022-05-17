@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Jodin
 Comment=Jodin
-Exec=/usr/bin/Jodin %U
+Exec=/usr/bin/JOdin %U
 Icon=Odin-logo
 Terminal=false
 Type=Application
